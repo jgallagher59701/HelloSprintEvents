@@ -9,4 +9,7 @@
       <property name = "message" value = "Hello World! Barf Co. Swill"/>
    </bean>
 
+   <bean id="cStartEventHandler" class = "com.tutorialspoint.CStartEventHandler"/>
+   <bean id="cStopEventHandler" class = "com.tutorialspoint.CStopEventHandler"/>
+   
 </beans>
